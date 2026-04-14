@@ -4,7 +4,7 @@ A simple Discord bot that responds to the message **"hello"**.
 
 ##  Requirements
 
-This project uses the **discord.js** library.
+This project uses the **discord.js** and **dotenv**.
 
 > ⚠️ The `node_modules` folder is not included in this repository.
 
@@ -17,3 +17,8 @@ Install the required dependencies using:
 npm install discord.js
 ```
 
+and
+
+```bash
+npm install dotenv
+```
